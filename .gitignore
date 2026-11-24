@@ -1,0 +1,6 @@
+data/
+results_generated/
+DomainBed/
+__pycache__/
+*.pyc
+.DS_Store
